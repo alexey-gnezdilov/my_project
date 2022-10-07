@@ -1,0 +1,283 @@
+{
+  "issueDate": "1970-03-18",
+  "executionTerm": "5",
+  "respExecutor": "Петров Владислав Александрович",
+  "controllerSign": "false",
+  "controller": "Иванов Владислав Владимирович",
+  "id": "332108f2-7960-4a44-92cc-ae68e222bb0b",
+  "type": "Task",
+  "text": "Пока просто текст",
+  "regNum": 523,
+  "regDate": {
+    "year": 2022,
+    "month": 10,
+    "day": 7
+  }
+}{
+  "issueDate": "1970-08-23",
+  "executionTerm": "6",
+  "respExecutor": "Иванов Иван Владимирович",
+  "controllerSign": "false",
+  "controller": "Сидоров Владислав Николаевич",
+  "id": "30f647f9-6bbd-4ac6-a15e-178f407f824f",
+  "type": "Task",
+  "text": "Пока просто текст",
+  "regNum": 4889,
+  "regDate": {
+    "year": 2022,
+    "month": 10,
+    "day": 7
+  }
+}{
+  "sender": "Сидоров Владислав Николаевич",
+  "recipientDepartment": "Отдел материального обеспечния",
+  "outNumber": 1189,
+  "outRegDate": {
+    "year": 1970,
+    "month": 1,
+    "day": 19
+  },
+  "id": "bb244b00-0483-45fc-aad8-0a994d473019",
+  "type": "Incoming",
+  "text": "Пока просто текст",
+  "regNum": 1189,
+  "regDate": {
+    "year": 1970,
+    "month": 1,
+    "day": 19
+  }
+}{
+  "sender": "Иванов Алексей Александрович",
+  "recipientDepartment": "Отдел кадров",
+  "outNumber": 953,
+  "outRegDate": {
+    "year": 1970,
+    "month": 8,
+    "day": 5
+  },
+  "id": "cf2201ff-7a29-4495-bad3-64f40708a885",
+  "type": "Incoming",
+  "text": "Пока просто текст",
+  "regNum": 953,
+  "regDate": {
+    "year": 1970,
+    "month": 8,
+    "day": 5
+  }
+}{
+  "issueDate": "1970-07-08",
+  "executionTerm": "17",
+  "respExecutor": "Сидоров Владислав Николаевич",
+  "controllerSign": "true",
+  "controller": "Петров Владислав Александрович",
+  "id": "f83ad52d-a519-453f-96fb-c417d11b8b27",
+  "type": "Task",
+  "text": "Пока просто текст",
+  "regNum": 2461,
+  "regDate": {
+    "year": 2022,
+    "month": 10,
+    "day": 7
+  }
+}{
+  "recipientOrganization": "Сбербанк",
+  "deliveryMethod": "byPost",
+  "id": "58e72a42-51c5-46b4-b624-3758b2f2e80f",
+  "type": "Outgoing",
+  "text": "Пока просто текст",
+  "regNum": 1799,
+  "regDate": {
+    "year": 1970,
+    "month": 6,
+    "day": 6
+  }
+}{
+  "issueDate": "1970-01-23",
+  "executionTerm": "22",
+  "respExecutor": "Сидоров Алексей Николаевич",
+  "controllerSign": "true",
+  "controller": "Петров Даниил Владимирович",
+  "id": "6550d0f9-7fa6-4ab5-aa3a-369e94b34d85",
+  "type": "Task",
+  "text": "Пока просто текст",
+  "regNum": 1147,
+  "regDate": {
+    "year": 2022,
+    "month": 10,
+    "day": 7
+  }
+}{
+  "sender": "Иванов Иван Владимирович",
+  "recipientDepartment": "Отдел по информационным технологиям",
+  "outNumber": 3656,
+  "outRegDate": {
+    "year": 1970,
+    "month": 5,
+    "day": 8
+  },
+  "id": "6e01be36-21a9-44ae-a0ee-6c5ee5506dc1",
+  "type": "Incoming",
+  "text": "Пока просто текст",
+  "regNum": 3656,
+  "regDate": {
+    "year": 1970,
+    "month": 5,
+    "day": 8
+  }
+}{
+  "issueDate": "1970-11-14",
+  "executionTerm": "25",
+  "respExecutor": "Сидоров Владислав Николаевич",
+  "controllerSign": "true",
+  "controller": "Петров Сергей Александрович",
+  "id": "11dabde3-11c7-40d2-9b11-bd7321cbcc60",
+  "type": "Task",
+  "text": "Пока просто текст",
+  "regNum": 2472,
+  "regDate": {
+    "year": 2022,
+    "month": 10,
+    "day": 7
+  }
+}{
+  "sender": "Сидоров Алексей Александрович",
+  "recipientDepartment": "Экономический отдел",
+  "outNumber": 779,
+  "outRegDate": {
+    "year": 1970,
+    "month": 1,
+    "day": 8
+  },
+  "id": "606cb97f-14dd-4dba-8772-2d5c08204b4f",
+  "type": "Incoming",
+  "text": "Пока просто текст",
+  "regNum": 779,
+  "regDate": {
+    "year": 1970,
+    "month": 1,
+    "day": 8
+  }
+}{
+  "issueDate": "1970-10-20",
+  "executionTerm": "0",
+  "respExecutor": "Смирнов Владислав Александрович",
+  "controllerSign": "false",
+  "controller": "Петров Сергей Александрович",
+  "id": "7556af94-029f-4d24-9de8-963f53b2020a",
+  "type": "Task",
+  "text": "Пока просто текст",
+  "regNum": 1803,
+  "regDate": {
+    "year": 2022,
+    "month": 10,
+    "day": 7
+  }
+}{
+  "sender": "Смирнов Владислав Александрович",
+  "recipientDepartment": "Отдел кадров",
+  "outNumber": 449,
+  "outRegDate": {
+    "year": 1970,
+    "month": 7,
+    "day": 29
+  },
+  "id": "bc070645-7900-4aa6-88b5-858020787e1b",
+  "type": "Incoming",
+  "text": "Пока просто текст",
+  "regNum": 449,
+  "regDate": {
+    "year": 1970,
+    "month": 7,
+    "day": 29
+  }
+}{
+  "recipientOrganization": "Тинькофф",
+  "deliveryMethod": "byPost",
+  "id": "d9fe3512-c7cb-4791-b99d-41dc3beb81c6",
+  "type": "Outgoing",
+  "text": "Пока просто текст",
+  "regNum": 2941,
+  "regDate": {
+    "year": 1970,
+    "month": 11,
+    "day": 4
+  }
+}{
+  "issueDate": "1970-09-13",
+  "executionTerm": "12",
+  "respExecutor": "Петров Владислав Александрович",
+  "controllerSign": "false",
+  "controller": "Иванов Владислав Владимирович",
+  "id": "76680c74-1c30-43df-89d7-ea75caee014d",
+  "type": "Task",
+  "text": "Пока просто текст",
+  "regNum": 3086,
+  "regDate": {
+    "year": 2022,
+    "month": 10,
+    "day": 7
+  }
+}{
+  "recipientOrganization": "Альфа-Банк",
+  "deliveryMethod": "byPost",
+  "id": "c0a575ec-aa88-440b-8c9b-c80003b31205",
+  "type": "Outgoing",
+  "text": "Пока просто текст",
+  "regNum": 4617,
+  "regDate": {
+    "year": 1970,
+    "month": 8,
+    "day": 24
+  }
+}{
+  "recipientOrganization": "Тинькофф",
+  "deliveryMethod": "byEmail",
+  "id": "64e261cc-9906-4643-94ff-b1f454808ff8",
+  "type": "Outgoing",
+  "text": "Пока просто текст",
+  "regNum": 82,
+  "regDate": {
+    "year": 1970,
+    "month": 2,
+    "day": 6
+  }
+}{
+  "issueDate": "1970-10-11",
+  "executionTerm": "5",
+  "respExecutor": "Петров Даниил Владимирович",
+  "controllerSign": "false",
+  "controller": "Сидоров Владислав Николаевич",
+  "id": "b664f88b-8048-4787-a835-12326789b990",
+  "type": "Task",
+  "text": "Пока просто текст",
+  "regNum": 4618,
+  "regDate": {
+    "year": 2022,
+    "month": 10,
+    "day": 7
+  }
+}{
+  "recipientOrganization": "Сбербанк",
+  "deliveryMethod": "byEmail",
+  "id": "bf6dc131-3b3c-43b0-9ed5-9775853ba682",
+  "type": "Outgoing",
+  "text": "Пока просто текст",
+  "regNum": 1380,
+  "regDate": {
+    "year": 1970,
+    "month": 9,
+    "day": 16
+  }
+}{
+  "recipientOrganization": "Сбербанк",
+  "deliveryMethod": "byEmail",
+  "id": "a0508fca-965f-480a-ac03-26691e183d79",
+  "type": "Outgoing",
+  "text": "Пока просто текст",
+  "regNum": 84,
+  "regDate": {
+    "year": 1970,
+    "month": 4,
+    "day": 17
+  }
+}
